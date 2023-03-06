@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, graphics designing, digital art
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me discord server The TreeHouse https://discord.gg/RZxKZ8qNH6
+- 📫 Email- evilangel6851@outlook.com
 
 <!---
 evil8310/evil8310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
