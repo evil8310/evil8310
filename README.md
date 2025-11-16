@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @evil8310
-- 👀 I’m interested in coding, graphics designing, digital art
-- 🌱 I’m currently learning JAVA
+- 👋 Hi, I’m Yuvraj
+- 👀 I’m interested in programming, graphics designing, game development and Machine learning
+- 🌱 I’m currently learning Machine Learning, LLMs and Cloud Architecture
 - 💞️ I’m looking to collaborate on 
-- 📫 Email- evilangel6851@outlook.com
+- 📫 Email- yuvrajdey4@gmail.com
 
 <!---
 evil8310/evil8310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
